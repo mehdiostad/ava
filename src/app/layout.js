@@ -2,11 +2,6 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
 import "./globals.css";
-import { Transition } from "@headlessui/react";
-import { CiMenuFries } from "react-icons/ci";
-import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
-import Thoughts from "../../public/toughts.jpg";
-import Image from "next/image";
 import Menu from "./components/Menu";
 
 export default function RootLayout({ children }) {

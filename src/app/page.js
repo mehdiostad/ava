@@ -1,6 +1,7 @@
 'use client'
 import { Transition } from '@headlessui/react'
 import { useState } from 'react'
+import Footer from './components/Footer';
 
 export default function Home() {
   
@@ -8,7 +9,7 @@ export default function Home() {
 
   return (
     <>
-      <h1>main page</h1>
+      <Footer />
     </>
   );
 }
