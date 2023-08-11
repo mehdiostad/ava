@@ -7,21 +7,21 @@ function Footer() {
         
         <div className="flex flex-col border-r-2 border-white w-2/12 justify-start items-end">
           <div className="flex flex-col text-5xl border-b-2 py-14 px-6 w-full">
-            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
+            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
           </div>
 
           <div className="flex flex-col text-5xl border-b-2 py-14 px-6 w-full">
-            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
+            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
           </div>
 
           <div className="flex flex-col text-5xl border-b-2 py-14 px-6 w-full">
-            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
-            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 ">services</h1>
+            <h1 className=" hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
+            <h1 className="mt-3 hover:bg-[#98fcce] ease-in-out duration-700 rounded-lg flex justify-center items-center py-1 hover:cursor-pointer ">services</h1>
           </div>
         </div>
 
