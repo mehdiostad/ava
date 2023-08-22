@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 import { CiMenuFries } from "react-icons/ci";
-import Thoughts from "../../../public/toughts.jpg";
+import Thoughts from "../../public/toughts.jpg";
 
 
 function Menu({menu, toggleMenu}) {
